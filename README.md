@@ -14,8 +14,11 @@ Evaluated models based on Mean Squared Error (MSE) and R-squared.
 
 Results:
 Linear Regression: MSE = 1.4677546002542146e-26, R-squared = 1.0.
+
 K-Nearest Neighbors: MSE = Your MSE Value, R-squared = Your R-squared Value.
+
 Decision Tree: MSE = [Your MSE Value], R-squared = Your R-squared Value.
+
 Random Forest: MSE = [Your MSE Value], R-squared = [Your R-squared Value].
 
 Conclusion:
