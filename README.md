@@ -3,7 +3,7 @@ Supermarket-sales-prediction using Machine Learning
 
 ## Project Dashboard Sample:
 
-![Screenshot 2024-04-26 200720](https://github.com/priotosh265/Supermarket-sales-prediction--ML-/assets/65670862/e843c18a-ada0-4a6a-81e7-d6860a93c67d)
+![Screenshot 2024-04-26 200720](https://github.com/priotosh265/Supermarket-sales-prediction--ML-/assets/65670862/368654ea-d29d-40c8-bf8e-a2baf967b2ca)
 
-![Screenshot 2024-04-26 200720](https://github.com/priotosh265/Supermarket-sales-prediction--ML-/assets/65670862/893ebb85-9ef4-4f2c-9b0d-5f71f73ed6b9)
 
+![Screenshot 2024-04-26 203521](https://github.com/priotosh265/Supermarket-sales-prediction--ML-/assets/65670862/58284c54-d778-468f-9050-81f18d3bd25a)
