@@ -1,4 +1,5 @@
-# Supermarket-sales-prediction--ML-
+# Supermarket-sales-prediction-ML
+
 Supermarket-sales-prediction using Machine Learning 
 
 ## Project Dashboard Sample:
